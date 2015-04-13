@@ -6,7 +6,7 @@ require "bootstrap_unify/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "bootstrap_unify"
-  s.version     = BootstrapUnify::VERSION
+  s.version     = "0.0.1"
   s.authors     = ["ajukas"]
   s.email       = ["mikhail.ajukas@gmail.com"]
   s.homepage    = "TODO"
