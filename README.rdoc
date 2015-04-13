@@ -1,19 +1,8 @@
 = BootstrapUnify
 
-* to use this gem add #gem 'bootstrap_unify',
-```
-git: 'https://github.com/ajukas/bootstrap_unify.git'
-```
-* to include boostrap.css add
-```
-'require bootstrap/css/bootstrap.min'
-```
-to your app/assets/stylesheets/application.css
-* to include fontawesome add
-```
-'require font-awesome/css/font-awesome.min'
-```
-to your app/assets/stylesheets/application.css
+* to use this gem add #gem 'bootstrap_unify', git: 'https://github.com/ajukas/bootstrap_unify.git'
+* to include boostrap.css add 'require bootstrap/css/bootstrap.min' to your app/assets/stylesheets/application.css
+* to include fontawesome add 'require font-awesome/css/font-awesome.min' to your app/assets/stylesheets/application.css
 * all plugins are included as bootstrap or fontawesome. List of plugins available
 1. glyphicons-pro
 2. masonry
