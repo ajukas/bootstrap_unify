@@ -1,44 +1,55 @@
 = BootstrapUnify
 
-* to use this gem add #gem 'bootstrap_unify', git: 'https://github.com/ajukas/bootstrap_unify.git'
-* to include boostrap.css add 'require bootstrap/css/bootstrap.min' to your app/assets/stylesheets/application.css
-* to include fontawesome add 'require font-awesome/css/font-awesome.min' to your app/assets/stylesheets/application.css
+* to use this gem add #gem 'bootstrap_unify',
+```
+git: 'https://github.com/ajukas/bootstrap_unify.git'
+```
+* to include boostrap.css add
+```
+'require bootstrap/css/bootstrap.min'
+```
+to your app/assets/stylesheets/application.css
+* to include fontawesome add
+```
+'require font-awesome/css/font-awesome.min'
+```
+to your app/assets/stylesheets/application.css
 * all plugins are included as bootstrap or fontawesome. List of plugins available
->1. glyphicons-pro
->2. masonry
->3. backstretch
->4. gmap
->5. modernizr.custom.js
->6. back-to-top.js
->7. horizontal-parallax
->8. owl-carousel
->9. bootstrap
->10. hover-effects
->11. parallax-slider
->12. brand-buttons
->13. html5shiv.js
->14. laceholder-IE-fixes.js
->15. bxslider
->16. image-hover
->16. respond.js
->17. circles-master
->18. jquery
->19. revolution-slider
->20. countdown
->21. jquery-appear.js
->22. scrollbar
->23. counter
->24. jquery.mixitup.min.js
->25. sky-forms-pro
->26. cube-portfolio
->27. jquery.parallax.js
->28. smoothScroll.js
->29. fancybox
->30. ladda-buttons
->31. style-switcher
->32. flexslider
->33. layer-slider
->34. vector-map
->35. font-awesome
->36. line-icons
->37. wow-animations
+1. glyphicons-pro
+2. masonry
+3. backstretch
+4. gmap
+5. modernizr.custom.js
+6. back-to-top.js
+7. horizontal-parallax
+8. owl-carousel
+9. bootstrap
+10. hover-effects
+11. parallax-slider
+12. brand-buttons
+13. html5shiv.js
+14. laceholder-IE-fixes.js
+15. bxslider
+16. image-hover
+16. respond.js
+17. circles-master
+18. jquery
+19. revolution-slider
+20. countdown
+21. jquery-appear.js
+22. scrollbar
+23. counter
+24. jquery.mixitup.min.js
+25. sky-forms-pro
+26. cube-portfolio
+27. jquery.parallax.js
+28. smoothScroll.js
+29. fancybox
+30. ladda-buttons
+31. style-switcher
+32. flexslider
+33. layer-slider
+34. vector-map
+35. font-awesome
+36. line-icons
+37. wow-animations
